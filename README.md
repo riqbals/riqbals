@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muh. Riqbal!
 
-<!--
-**riqbals/riqbals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Informatics Engineering student at **Hasanuddin University**, passionate about **technology, coding, and artificial intelligence**.  
+💡 I enjoy learning new things, collaborating with others, and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
+- Java and Python programming  
+- Database and SQL fundamentals  
+- Artificial Intelligence basics (Machine Learning & Prompt Engineering)  
+- Game development with Unity and C#  
+- Digital logic design and simulation (EWB & JFLAP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- **Digital Vending Machine Logic Simulation** — Simple combinational circuit built with Electronics Workbench (EWB)  
+
+👉 See more on my GitHub Repositories: https://github.com/riqbals
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: muh.riqbal17@email.com  
+- 💼 LinkedIn: http://linkedin.com/in/muh-riqbal-b83b1133a/  
+- 🌍 Location: Gowa, Indonesia  
+
+---
+
+⭐ *"Keep learning, stay curious, and build something meaningful."*
